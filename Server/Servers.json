@@ -1,0 +1,34 @@
+{
+    "Servers":  [
+                    {
+                        "Username":  "administrator",
+                        "IP":  "10.56.100.124",
+                        "HostName":  "Alireza",
+                        "Password":  "76492d1116743f0423413b16050a5345MgB8AEYAdwArAGIAaABSAEYAdwBIAHEATAAwAFcAZQBvAEcAUwAyAGcAYgBBAEEAPQA9AHwAYgBjAGIANwA2AGMANQBiAGEAMQA3ADQAMQA4AGQAOQA1AGMAYwA3AGIAMQA1AGUAZAAzAGMAYgA4ADQAYwA4AA=="
+                    },
+                    {
+                        "Username":  "administrator",
+                        "IP":  "192.168.150.120",
+                        "HostName":  "DCServer",
+                        "Password":  "76492d1116743f0423413b16050a5345MgB8AEYAdwArAGIAaABSAEYAdwBIAHEATAAwAFcAZQBvAEcAUwAyAGcAYgBBAEEAPQA9AHwAYgBjAGIANwA2AGMANQBiAGEAMQA3ADQAMQA4AGQAOQA1AGMAYwA3AGIAMQA1AGUAZAAzAGMAYgA4ADQAYwA4AA=="
+                    },
+                    {
+                        "Username":  "administrator",
+                        "IP":  "10.56.100.123",
+                        "HostName":  "Ali mohammad",
+                        "Password":  "76492d1116743f0423413b16050a5345MgB8AEYAdwArAGIAaABSAEYAdwBIAHEATAAwAFcAZQBvAEcAUwAyAGcAYgBBAEEAPQA9AHwAYgBjAGIANwA2AGMANQBiAGEAMQA3ADQAMQA4AGQAOQA1AGMAYwA3AGIAMQA1AGUAZAAzAGMAYgA4ADQAYwA4AA=="
+                    },
+                    {
+                        "Username":  "administrator",
+                        "IP":  "192.168.150.101",
+                        "HostName":  "DNSServer",
+                        "Password":  "76492d1116743f0423413b16050a5345MgB8AEYAdwArAGIAaABSAEYAdwBIAHEATAAwAFcAZQBvAEcAUwAyAGcAYgBBAEEAPQA9AHwAYgBjAGIANwA2AGMANQBiAGEAMQA3ADQAMQA4AGQAOQA1AGMAYwA3AGIAMQA1AGUAZAAzAGMAYgA4ADQAYwA4AA=="
+                    },
+                    {
+                        "Username":  "administrator",
+                        "IP":  "219.13.33.234",
+                        "HostName":  "mehrdad",
+                        "Password":  "76492d1116743f0423413b16050a5345MgB8ADAAMQA4AGoAawB4AFEANABCAGUAVgBTAGUASgBwADYAdAA5AE8AWQByAHcAPQA9AHwAYQA3AGEANQA1AGEAMAA3ADYAOABmADUAOQBkAGUAMQA5AGUAMAAwADEAMAA4ADYAYwA1ADYAZQA2ADQAYgAyAGQAYQBjADQAYQBhAGYAZABhAGEANQAzADAAZAAwAGUAMQA5AGEANwA0AGQANABmADkAYQA4ADAANQBhAGIANgA="
+                    }
+                ]
+}
